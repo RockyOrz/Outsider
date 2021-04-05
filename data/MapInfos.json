@@ -15,8 +15,8 @@ null,
 {"id":13,"expanded":false,"name":"General'sCamp","order":13,"parentId":10,"scrollX":811,"scrollY":461},
 {"id":14,"expanded":true,"name":"Cave","order":14,"parentId":10,"scrollX":382,"scrollY":448.5},
 {"id":15,"expanded":true,"name":"Forest House","order":15,"parentId":4,"scrollX":811,"scrollY":461},
-{"id":16,"expanded":false,"name":"Abandoned House","order":16,"parentId":15,"scrollX":811,"scrollY":461},
-{"id":17,"expanded":true,"name":"Ruins","order":17,"parentId":4,"scrollX":819,"scrollY":946},
-{"id":18,"expanded":false,"name":"Tower","order":18,"parentId":17,"scrollX":811,"scrollY":461},
-{"id":19,"expanded":false,"name":"Tower 2F","order":19,"parentId":17,"scrollX":860,"scrollY":461}
+{"id":16,"expanded":false,"name":"Abandoned House","order":16,"parentId":15,"scrollX":601.3333333333334,"scrollY":420.6666666666667},
+{"id":17,"expanded":true,"name":"Ruins","order":17,"parentId":4,"scrollX":886.6666666666666,"scrollY":1206},
+{"id":18,"expanded":false,"name":"Tower","order":18,"parentId":17,"scrollX":601.3333333333334,"scrollY":420.6666666666667},
+{"id":19,"expanded":false,"name":"Tower 2F","order":19,"parentId":17,"scrollX":1342,"scrollY":1918}
 ]
